@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer | Passionate about LLMs, NLP, and Computer Vision</h3>
 
 - 🔭 I’m currently working as an **Associate Developer Intern at ZySec AI**
-- 🌱 I’m currently learning **DSPy, LLM Optimization, and Advanced DSA**
+- 🌱 I’m currently learning **LLMOps, and Advanced DSA**
 - 👨‍💻 Check out my projects at [GitHub](https://github.com/ToxicShot09)
 - 📝 Read more about me at [Portfolio](https://taikhum-tinwala.vercel.app/)
 - 💬 Ask me about **LLMs, ML Algorithms, and NLP**
