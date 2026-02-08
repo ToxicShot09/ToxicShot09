@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taikhum Tinwala</h1>
 <h3 align="center">AI/ML Engineer | Passionate about LLMs, NLP, and Computer Vision</h3>
 
-- 🔭 I’m currently working as an **AI Developer Intern at Winvesta**
+- 🔭 I’m currently working as an **AI Engineer at Winvesta**
 - 🌱 I’m currently learning **LLMOps, and Advanced DSA**
 - 👨‍💻 Check out my projects at [GitHub](https://github.com/ToxicShot09)
 - 📝 Read more about me at [Portfolio](https://taikhum-tinwala.vercel.app/)
